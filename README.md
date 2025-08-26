@@ -1,7 +1,6 @@
 # Clarity — Productivity Web App
 
-Clarity is a simple yet powerful productivity app designed to help you manage both **tasks** and **habits** in one place.  
-It includes progress tracking, habit categorization, and a planner for weekly and monthly milestones.
+Clarity is a responsive, single-page web application built with React that helps you manage tasks, track habits, and visualize your productivity progress—all in your browser.
 
 ---
 
